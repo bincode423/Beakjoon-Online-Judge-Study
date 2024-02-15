@@ -1,0 +1,10 @@
+a = int(input())
+b = int(input())
+num = a*int(str(b)[2])
+num1 = a*int(str(b)[1])
+num2 = a*int(str(b)[0])
+
+print(num)
+print(num1)
+print(num2)
+print(num1*10+num2*100+num)
