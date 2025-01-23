@@ -1,10 +1,9 @@
 # BEAKJOON
 
-백준 온라인 저지 파이썬 문제풀이입니다~
-저도 다 푼건 아니고 공부하면서 작성한 겁니다아~
-여러가지 방법으로 풀면 다른 폴더에 같은 문제풀이가 있을 수 있습니다아~
+백준 온라인 저지 파이썬 문제풀이입니다.
+저도 다 풀은 것은 아니고요, 공부하면서 작성한 겁니다.
+여러가지 방법으로 풀면 다른 폴더에 같은 문제풀이가 있을 수 있습니다.
 그냥 참고용으로만 사용해 주세요~
-(공부용으로 작성한 코드도 있음)
 
 It's Baekjun's online Jersey Python problem solving
 I didn't solve it all either, but I wrote it while studying
