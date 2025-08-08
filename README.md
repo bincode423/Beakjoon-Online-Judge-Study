@@ -1,50 +1,58 @@
 ---
 
-# 📚 백준 온라인 저지 스터디 (Baekjoon Online Judge Study)
+# 📚 Baekjoon Online Judge Study
 
-안녕하세요! 이 레포지토리는 제가 **백준 온라인 저지(Baekjoon Online Judge)**에서 다양한 알고리즘 문제들을 풀면서 공부하고 기록한 코드들을 모아둔 개인 스터디 공간입니다. 알고리즘 문제 해결 능력을 향상시키고, 꾸준히 코딩 연습을 이어가기 위한 저의 여정을 담고 있습니다.
+Hello! This repository is my personal study space where I collect and document solutions to various algorithm problems from **Baekjoon Online Judge**. It reflects my journey of improving algorithmic problem-solving skills and maintaining consistent coding practice.
 
-## ✨ 레포지토리의 목적
+## ✨ Purpose of the Repository
 
-이 레포지토리는 다음을 목표로 합니다:
+This repository aims to:
 
-* **문제 해결 과정 기록**: 각 문제에 대한 저의 접근 방식, 생각의 흐름, 그리고 최종 솔루션을 코드로 기록합니다.
-* **알고리즘 및 자료구조 숙달**: 다양한 알고리즘 유형(탐색, 정렬, 동적 계획법 등)과 자료구조(배열, 그래프 등)를 실제 문제에 적용하며 이해도를 높입니다.
-* **지속적인 학습 동기 부여**: 꾸준히 문제를 풀고 기록하며 학습 습관을 유지하고, 성장 과정을 한눈에 확인할 수 있도록 합니다.
-* **코드 재검토 및 개선**: 나중에 다시 코드를 살펴보면서 더 효율적인 방법이나 개선할 점을 찾아볼 수 있습니다.
+* **Record the problem-solving process**: Document my thought process, approach, and final solutions for each problem.
+* **Master algorithms and data structures**: Apply different algorithm types (search, sorting, dynamic programming, etc.) and data structures (arrays, graphs, etc.) to real problems to deepen my understanding.
+* **Maintain learning motivation**: Solve problems consistently and track my growth over time.
+* **Review and improve code**: Revisit old solutions to find more efficient approaches or potential improvements.
 
-## 🚀 사용 언어
+## 🚀 Programming Language
 
-이 레포지토리의 모든 문제 풀이 코드는 **Python** 언어로 작성되었습니다. Python의 간결함과 강력한 라이브러리를 활용하여 알고리즘 문제를 해결하고 있습니다.
+All solutions in this repository are written in **Python**. I use Python’s simplicity and powerful libraries to tackle algorithm problems effectively.
 
-## 📁 레포지토리 구성
+## 📁 Repository Structure
 
-레포지토리는 각 알고리즘 및 자료구조 유형별로 폴더가 구성되어 있어, 특정 주제에 대한 문제 풀이를 쉽게 찾아볼 수 있습니다. 각 폴더는 해당 주제와 관련된 백준 문제들의 솔루션 코드를 담고 있습니다.
+The repository is organized into folders based on algorithm and data structure types, making it easy to find solutions for specific topics. Each folder contains solutions to Baekjoon problems related to that topic.
 
-* **1차원 배열 (1D Array)**
-    * 간단한 배열 조작부터 시작하여, 1차원 배열을 효율적으로 사용하는 다양한 문제들을 다룹니다. 배열의 기본적인 순회, 삽입, 삭제 등의 개념을 익힐 수 있는 문제들이 포함되어 있습니다.
+* **1D Array**
 
-* **그래프 (Graph)**
-    * BFS(너비 우선 탐색), DFS(깊이 우선 탐색)와 같은 그래프 탐색 알고리즘을 코드들을 담고 있습니다.
+  * Covers problems ranging from simple array manipulations to more efficient 1D array usage. Includes basic iteration, insertion, deletion, and related concepts.
 
-* **반복문 (Loops)**
-    * `for` 문과 `while` 문을 활용한 기본적인 반복 구조부터 시작하여, 중첩 반복문, 효율적인 반복문 사용법 등 반복문의 다양한 활용 예시를 보여주는 문제들이 있습니다.
+* **Graph**
 
-* **입출력과 사칙연산 (Input/Output and Arithmetic Operations)**
-    * 백준에서 문제를 풀 때 가장 기본이 되는 입력 받기, 출력하기, 그리고 기본적인 사칙연산(덧셈, 뺄셈, 곱셈, 나눗셈)을 처리하는 방법들을 연습하는 문제 코드들입니다.
+  * Includes implementations of graph traversal algorithms such as BFS (Breadth-First Search) and DFS (Depth-First Search).
 
-* **재귀와 다이나믹 (Recursion and Dynamic)**
-    * **재귀 함수(Recursion)**의 개념과 이를 활용한 문제 풀이, 그리고 점화식을 세워 문제를 해결하는 **동적 계획법(Dynamic Programming)**의 기초부터 심화 문제까지 다룹니다.
+* **Loops**
 
-* **조건문 (Conditionals)**
-    * `if`, `elif`, `else`와 같은 조건문을 사용하여 특정 조건에 따라 다른 코드를 실행하는 기본적인 프로그래밍 논리를 연습하는 문제 풀이 코드입니다.
+  * Covers basic looping structures using `for` and `while`, nested loops, and examples of efficient loop usage.
+
+* **Input/Output and Arithmetic Operations**
+
+  * Practices the fundamentals of reading input, printing output, and performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+* **Recursion and Dynamic Programming**
+
+  * Covers **recursion** concepts and applications, as well as **dynamic programming** techniques ranging from basic to advanced.
+
+* **Conditionals**
+
+  * Uses `if`, `elif`, and `else` statements to execute different code paths depending on given conditions.
 
 ---
 
-## 💡 어떻게 활용할 수 있을까요?
+## 💡 How Can You Use This Repository?
 
-* **특정 알고리즘 학습**: 특정 알고리즘 유형(예: 그래프)에 대한 문제 풀이 방식을 알고 싶다면 해당 폴더를 탐색해 보세요.
-* **문제 풀이 아이디어 얻기**: 백준에서 막히는 문제가 있다면, 비슷한 유형의 문제 코드를 참고하여 아이디어를 얻을 수 있습니다.
-* **코드 비교**: 같은 문제라도 다양한 풀이 방법이 존재할 수 있으므로, 제 코드와 다른 사람의 코드를 비교하며 더 나은 방법을 찾아볼 수 있습니다.
+* **Learn a specific algorithm**: If you want to study a particular algorithm type (e.g., Graph), browse the relevant folder.
+* **Get problem-solving ideas**: If you’re stuck on a Baekjoon problem, check similar problems here to get inspiration.
+* **Compare code**: There are often multiple ways to solve a problem. Comparing my solutions with others can help you find more optimal approaches.
 
-이 레포지토리가 백준 온라인 저지 학습에 작게나마 도움이 되기를 바랍니다. 궁금한 점이나 의견이 있으시면 언제든지 환영합니다!
+I hope this repository serves as a small but helpful resource for your Baekjoon Online Judge learning journey. Feel free to reach out with questions or feedback anytime!
+
+---
